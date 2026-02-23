@@ -2,5 +2,5 @@ pytest>=9.0.2
 numpy
 pandas
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.0+cpu
+torch==2.2.1+cpu
 torchvision==0.17.1+cpu
